@@ -86,10 +86,7 @@ secciones **"Qué debe mostrar cada exposición"**, **"Medio de presentación"**
 
 Resumen: 12–15 min · diapositivas PDF al PR antes de la sesión · demo en vivo en
 la laptop del equipo (REPL + "Hola Paradigma" 1..10 + 2.º ejemplo idiomático) ·
-grabación asciinema cloud obligatoria como respaldo · rúbrica /100
-(demo 35 · dominio 25 · comparación y caso real 15 · claridad y tiempo 10 ·
-participación individual 15).
-
+grabación asciinema cloud obligatoria como respaldo 
 ---
 
 *Referencias: [`../README.md`](../README.md), [`../../SYLLABUS.md`](../../SYLLABUS.md),
