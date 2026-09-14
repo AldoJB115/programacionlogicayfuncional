@@ -27,6 +27,8 @@ funcionales más populares hoy** (Haskell, Elixir, Scala, Clojure). Cabe en
 
 ---
 
+<img width="1198" height="885" alt="image" src="https://github.com/user-attachments/assets/c0097842-5f47-4454-bc75-4db7c0e852e6" />
+
 ## Asignación de equipos (grupo 2pm, 16 estudiantes · corte 08/09/26)
 
 Roster en orden de lista; bloques de 4. Roles internos: **(1)** contexto/historia ·
