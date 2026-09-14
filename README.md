@@ -97,12 +97,6 @@ Al concluir el curso, el estudiante será capaz de:
 - **Tema 2.4:** Evaluación perezosa (Lazy Evaluation)
 - **Tema 2.5:** Aplicaciones de la programación funcional
 
-![prolog copy-2](https://github.com/user-attachments/assets/90192e5b-89ae-47b0-91f9-6e5269f6b95e)
-
-
-
-
-
 ### Unidad 3: Programación Lógica
 
 - **Tema 3.1:** Fundamentos de la programación lógica
